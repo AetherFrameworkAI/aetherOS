@@ -812,7 +812,7 @@ class _TerminalWidgetState extends State<TerminalWidget>
                                                                           .sendFullPromptCall
                                                                           .call(
                                                                         apiKey:
-                                                                            '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',
+                                                                            '//your API KES',
                                                                         promptJson:
                                                                             _model.chatHistory,
                                                                       );
